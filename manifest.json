@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Twitch Element Remover",
+    "version": "1.0",
+    "description": "Removes a specific element from the Twitch dashboard",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://dashboard.twitch.tv/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
