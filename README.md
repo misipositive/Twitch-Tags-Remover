@@ -2,11 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/f17fa220-4723-4418-afe2-a931977487c0)
 
-A Chrome extension that removes .tw-tag elements from the Twitch dashboard.
-
-## Description
-
-When enabled, this extension removes [.tw-tag](https://github.com/misipositive/Twitch-Tags-Remover/blob/master/content.js) elements only when you are [on](https://github.com/misipositive/Twitch-Tags-Remover/blob/master/manifest.json) https://dashboard.twitch.tv/ to give more space because it is so cluttered.
+A Chrome extension that removes [.tw-tag elements](https://github.com/misipositive/Twitch-Tags-Remover/blob/master/content.js) from [Twitch dashboard](https://github.com/misipositive/Twitch-Tags-Remover/blob/master/manifest.json).
 
 ## Installation
 
