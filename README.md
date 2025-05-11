@@ -23,4 +23,4 @@ This extension is super lightweight. It only works on [https://dashboard.twitch.
 
 Licensed under the MIT License - see [LICENSE](https://github.com/misipositive/Twitch-Tags-Remover/blob/master/LICENSE)
 
-Copyright (c) 2023 misipositive
+Copyright (c) 2025 misipositive
